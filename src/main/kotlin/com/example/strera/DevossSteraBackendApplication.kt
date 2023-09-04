@@ -1,4 +1,4 @@
-package com.example.devosssterabackend
+package com.example.strera
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
